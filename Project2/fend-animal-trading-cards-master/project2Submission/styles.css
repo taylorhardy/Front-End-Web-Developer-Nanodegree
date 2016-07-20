@@ -1,0 +1,62 @@
+/* add your CSS here */
+
+body {
+    font-family: arial;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-style: groove;
+    box-shadow: 2px 5px 5px 5px #ccc;
+}
+
+.card {
+    width: 1250px;
+}
+
+.card h3 {
+    font-size: 5em;
+    margin-left: 6%;
+    margin-bottom: 8px;
+    margin-top: 4%;
+}
+
+img {
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+}
+
+.description {
+    border: 4px solid #ccc;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+}
+
+.description ul > li {
+    list-style: none;
+    font-size: 2.5em;
+    font-style: italic;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.description ul > li > span {
+    font-weight: bold;
+    font-size: inherit;
+    font-style: normal;
+}
+
+.description p {
+    font-size: 2.5em;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+
+.italics {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    font-style: italic;
+    font-size: 2.5em;
+
+}
